@@ -123,7 +123,8 @@ npm install
 npm start
 
 Frontend URL:
-http://localhost:3000
+http://content-forge-indol.vercel.app
+
 
 ---
 
